@@ -91,11 +91,14 @@ This project involves building an interactive sales dashboard using Microsoft Ex
 
 ### 🔹 Pivot Table & Pivot Chart Example
 
-![Step 1 – Raw Data](https://github.com/user-attachments/assets/f154b5ff-7b19-482b-996f-7979d4eea2c3)
+![Step 1 – Raw Data](https://github.com/user-attachments/assets/b793054f-8e9f-4511-8aa6-7bb1d90730ed)
+
+
 
 ### 🔹Dynamic Slicer Example
 
-![Step 3 – Final Dashboard](https://github.com/user-attachments/assets/974edffd-acea-40f9-b2d5-c1bf366b05ac)
+![Step 3 – Final Dashboard](https://github.com/user-attachments/assets/97311001-7f5a-4e78-9720-764b1abb11f3)
+
 
 ---
 
