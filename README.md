@@ -4,6 +4,11 @@
 
 This project involves building an interactive sales dashboard using Microsoft Excel to analyze e-commerce sales across multiple product categories. The dashboard provides insights into monthly and regional sales performance, and includes dynamic controls to filter data based on product categories.
 
+<img width="727" alt="image" src="![image](https://github.com/user-attachments/assets/ef41b9ea-f990-4cd2-b500-c7c3247d467a)
+" />
+ 
+
+
 ---
 
 ## 📁 Dataset Summary
