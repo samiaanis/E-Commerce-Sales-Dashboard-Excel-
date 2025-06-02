@@ -87,32 +87,20 @@ This project involves building an interactive sales dashboard using Microsoft Ex
 
 ---
 
-## 🧭 Screenshots
+## 📸 Screenshots
 
-### 🔹 Step 1: Raw Data & Pivot Table Creation
+### 🔹 Pivot Table & Pivot Chart Example
 
 ![Step 1 – Raw Data](https://github.com/user-attachments/assets/f154b5ff-7b19-482b-996f-7979d4eea2c3)
 
----
-
-### 🔹 Step 2: Region-Wise & Month-Wise Breakdown
-
 ![Step 2 – Region & Month](https://github.com/user-attachments/assets/4c25d112-0522-4ecc-86c0-ef8c9e69828c)
 
+### 🔹Dynamic Slicer Example
+
+ <img width="727" alt="image" src="![image](https://github.com/user-attachments/assets/974edffd-acea-40f9-b2d5-c1bf366b05ac)
+" />
+
 ---
-
-### 🔹 Step 3: Final Interactive Dashboard with Slicers
-
-![Step 3 – Final Dashboard](https://github.com/user-attachments/assets/7d6d9155-5303-497b-91c5-3854eaccc610)
-
-![image](https://github.com/user-attachments/assets/f154b5ff-7b19-482b-996f-7979d4eea2c3)
-
-![image](https://github.com/user-attachments/assets/4c25d112-0522-4ecc-86c0-ef8c9e69828c)
-
-![image](https://github.com/user-attachments/assets/7d6d9155-5303-497b-91c5-3854eaccc610)
-
-
-
 
 ## 📈 Key Insights
 
