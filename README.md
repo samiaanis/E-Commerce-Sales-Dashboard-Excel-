@@ -93,12 +93,9 @@ This project involves building an interactive sales dashboard using Microsoft Ex
 
 ![Step 1 – Raw Data](https://github.com/user-attachments/assets/f154b5ff-7b19-482b-996f-7979d4eea2c3)
 
-![Step 2 – Region & Month](https://github.com/user-attachments/assets/4c25d112-0522-4ecc-86c0-ef8c9e69828c)
-
 ### 🔹Dynamic Slicer Example
 
- <img width="727" alt="image" src="![image](https://github.com/user-attachments/assets/974edffd-acea-40f9-b2d5-c1bf366b05ac)
-" />
+![Step 3 – Final Dashboard](https://github.com/user-attachments/assets/974edffd-acea-40f9-b2d5-c1bf366b05ac)
 
 ---
 
